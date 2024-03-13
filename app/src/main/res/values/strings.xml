@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atividade-1</string>
+    <string name="principal">Principal</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="hamburger_photo">Hamburger photo</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="hamburger_gourmet">Hamburger Gourmet</string>
+    <string name="hambuger_especial">Hambuger Especial</string>
+    <string name="hamburger_de_siri">Hamburger de Siri</string>
+</resources>
